@@ -1,0 +1,20 @@
+.dateButtons{
+    color: black;
+    font-weight: bold;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;    
+}
+
+.dateButtons:hover{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+.reservationRow:hover{
+    background-color: red;
+}

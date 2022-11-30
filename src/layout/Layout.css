@@ -1,0 +1,13 @@
+.side-bar {
+  background-color: #393a44;
+  min-width: 200px;
+}
+
+.accentFontColor{
+  color: grey!important;
+  font-weight: bold;
+}
+
+h1{
+  color: grey;
+}
